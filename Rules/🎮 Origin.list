@@ -1,7 +1,0 @@
-host,cloudsync-prod.s3.amazonaws.com
-host,eaasserts-a.akamaihd.net
-host,origin-a.akamaihd.net
-host,originasserts.akamaized.net
-host,rtm.tnt-ea.com
-host-suffix,ea.com
-host-suffix,origin.com
